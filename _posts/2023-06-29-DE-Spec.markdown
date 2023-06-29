@@ -1,7 +1,8 @@
 ---
 layout: post
 author: aps-physics
+title: Dark Energy Spectroscopy Instrument Releases First Data
 ---
 
 # Dark Energy Spectroscopy Instrument Releases First Data
-[The Article](https://physics.aps.org/articles/v16/106)
+[The Article](https://physics.aps.org/articles/v16/106): The first data collected by the Dark Energy Spectroscopy ...
